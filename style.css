@@ -1,0 +1,242 @@
+.base {
+    max-width: 766px;
+    height: 648px;
+    margin: 0 auto 0 auto;
+    display: flex;
+    /* дисплей - выравнивание потомков по горизотали */
+}
+
+.left {
+    width: 282px;
+    height: 648px;
+    text-align: center;
+    background-color: #413838;
+}
+
+.right {
+    width: 500px;
+    height: 648px;
+    background-color: #FAF5F5;
+    margin-top: -674px;
+    margin-left: 853px;
+}
+
+
+.left img {
+    margin-top: 50px;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    background: #D9D9D9;
+}
+
+.down {
+    max-width: 223px;
+    height: 130px;
+    margin: 25px auto 0 auto;
+    background: #413838;
+}
+
+.left p {
+    max-width: 223px;
+    margin: 15px auto 15px auto;
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F7F1F1;
+}
+
+.down p {
+    color: #F7F1F1;
+}
+
+.link1 {
+    width: 214px;
+    margin: 25px auto 0 auto;
+    background: #413838;
+}
+
+.vk {
+    height: 100px;
+    color: rgb(10, 3, 3);
+    text-decoration: none;
+}
+
+.link1 div {
+    margin-left: -190px;
+    color: #F7F1F1;
+    
+}
+
+.vk {
+    margin-left: -100px;
+    color: #F7F1F1;
+}
+
+.link2 {
+    width: 214px;
+    height: 60px;
+    margin: 25px auto 0 auto;
+    background: #413838;
+}
+
+.link2 div {
+    margin-left: -165px;
+    color: #F7F1F1;
+}
+
+.steam {
+    height: 100px;
+    color: #F7F1F1;
+    text-decoration: none;
+}
+
+.vk {
+    margin-left: -100px;
+    color: #F7F1F1;
+}
+
+.steam br {
+    height: 70px;
+}
+
+.right ul {
+    list-style-type: none;
+}
+
+.right ul li:nth-child(1) p {
+    color: black;
+    font-size: 20px;
+    font-weight: 105px;
+    margin-left: 320px;
+}
+
+.right ul li:nth-child(2) p {
+    color: black;
+    font-size: 20px;
+    font-weight: 100px;
+    margin-left: 295px;
+}
+
+.right ul li:nth-child(3) p {
+    color: black;
+    font-size: 20px;
+    font-weight: 100px;
+    margin-left: 285px;
+}
+
+
+.right ul li:nth-child(4) p {
+    color: black;
+    font-size: 40px;
+    font-weight: 100px;
+    margin-top: -40px;
+    margin-left: -30px;
+}
+.right ul li:nth-child(5) p {
+    color: black;
+    font-size: 40px;
+    font-weight: 100px;
+    margin-top: -25px;
+    margin-left: -30px;
+}
+
+.line1 {
+    position: absolute;
+    width: 484px;
+    height: 0px;
+    margin-left: -37px;
+    border: 1px solid #000000;
+}
+
+.line2 {
+    position: absolute;
+    width: 484px;
+    height: 0px;
+    margin-top: 250px;
+    margin-left: -37px;
+    border: 1px solid #000000;
+}
+
+.right ul li:nth-child(6) p {
+    position: absolute;
+    width: 105px;
+    height: 22px;
+    margin-top: 260px;
+    margin-left: -30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.right ul li:nth-child(7) p {
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    margin-top: 290px;
+    margin-left: -30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.right ul li:nth-child(8) p {
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    margin-top: 308px;
+    margin-left: -30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.right ul li:nth-child(9) p {
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    margin-top: 320px;
+    margin-left: -30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.line3 {
+    position: absolute;
+    width: 53px;
+    height: 0px;
+    margin-top: 315px;
+    margin-left: 60px;
+    border: 1px solid #000000;
+    transform: rotate(90deg);
+}
+
+.right ul li:nth-child(10) p {
+    position: absolute;
+    width: 321px;
+    height: 75px;
+    margin-left: 110px;
+    margin-top: 284px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
